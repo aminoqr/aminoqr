@@ -75,7 +75,7 @@ Short description — what problem it solves, what you built, and any interestin
 #### [Project Name 3](https://github.com/YOUR-USERNAME/repo-name-3)
 Short description.
 **Tech:** Graphs · Algorithms
--->
+
 ---
 
 ### 📊 GitHub Stats
@@ -94,7 +94,7 @@ Short description.
 </p>
 
 ---
-
+-->
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/aminoqr/)
