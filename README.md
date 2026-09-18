@@ -96,7 +96,7 @@ Short description.
 -->
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/aminoqr/)
+- 💼 LinkedIn: [linkedin.com/in/aminoqr](https://www.linkedin.com/in/aminoqr/)
 - 📧 Email: aminoqr12L@gmail.com
 - 📍 Based in Warsaw, Poland — open to internships (remote/hybrid/on-site)
 
